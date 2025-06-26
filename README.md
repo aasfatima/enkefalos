@@ -1,3 +1,3 @@
 # enkefalos
-A micro-learning project 
+A micro-learning project ...
 Coming soon
