@@ -1,2 +1,3 @@
 # enkefalos
-A micro-learning platform 
+A micro-learning project 
+Coming soonn
